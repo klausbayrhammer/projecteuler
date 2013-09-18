@@ -1,0 +1,1 @@
+new java.math.BigDecimal(Math pow(2, 1000)).toPlainString.map(_.asDigit).sum
